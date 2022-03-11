@@ -1,7 +1,3 @@
-# Задание №2
-# Ильин Ярослав 1993
-# Вариант 9
-
 class Country:
     def __init__(self, country='Неизвестно', data=1, president='Кто-то', square=1):
         self.country = country
