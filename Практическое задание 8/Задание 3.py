@@ -7,7 +7,7 @@ alphabet = "abcdefghijklmnopqrstuvwxyz"
 letters_count = 0
 
 # Просим пользователя ввести текст
-text = input("[ * ] Введите текст: ")
+text = input("Введите текст: ")
 
 # Считаем латинские буквы
 for letter in text.lower():
