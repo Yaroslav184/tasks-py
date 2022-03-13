@@ -5,6 +5,7 @@ file_name = 'file'
 try:
     with open(file_name, encoding='utf-8') as file:
         contents = file.read()
+        
 except FileNotFoundError:
     print(f'Запрашиваемый файл {file_name} не найден!')
 
