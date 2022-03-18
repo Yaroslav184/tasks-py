@@ -1,7 +1,3 @@
-# Задание №3
-# Ильин Ярослав 1993
-# Вариант 7
-
 class Book:
     def __init__(self, book):
         self.book = book
