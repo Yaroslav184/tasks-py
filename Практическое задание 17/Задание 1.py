@@ -1,7 +1,3 @@
-# Задание №1
-# Ильин Ярослав 1993
-# Вариант 7
-
 class Educational:
     def __init__(self, educational='Неизвестно', city='Неизвестно'):
         self.educational = educational
