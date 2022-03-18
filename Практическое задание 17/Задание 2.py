@@ -1,7 +1,3 @@
-# Задание №2
-# Ильин Ярослав 1993
-# Вариант 7
-
 from math import gcd
 from random import randint
 
