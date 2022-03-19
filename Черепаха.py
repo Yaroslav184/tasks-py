@@ -1,5 +1,5 @@
-# Черепаха
 import turtle
+
 turtle.reset()
 turtle.penup()
 turtle.goto(-100, -100)
