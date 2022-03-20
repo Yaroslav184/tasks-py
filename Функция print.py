@@ -1,4 +1,3 @@
-# Функция print
 print('Hello World!')
 
 '''
