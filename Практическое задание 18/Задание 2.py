@@ -1,6 +1,3 @@
-# Задание №1
-# Ильин Ярослав 1993
-
 from tkinter import *
 
 prog = Tk()
