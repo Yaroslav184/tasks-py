@@ -18,7 +18,7 @@ def cheak():
         master.mainloop()
     else:
         master = Tk()
-        message = Message(master, text='ПЛОХО! Вы ответили неневерный!', width=300)
+        message = Message(master, text='ПЛОХО! Вы ответили неверно!', width=300)
         message.pack()
         master.mainloop()
 
