@@ -1,6 +1,3 @@
-# Ильин Ярослав 1993
-# Вариант 4
-
 from tkinter import *
 
 root = Tk()
