@@ -10,5 +10,4 @@ def spisok():
     print('Различные числа из списка:', b)
     print('Длинна различных чисел из списка:', len(b))
 
-if __name__ == '__main__':
-    spisok()
+spisok()
