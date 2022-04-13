@@ -1,6 +1,3 @@
-# Ильин Ярослав 1993
-# Задание 2
-
 import sys
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QLabel, QApplication, QVBoxLayout, QWidget
