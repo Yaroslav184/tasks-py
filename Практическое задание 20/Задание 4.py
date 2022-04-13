@@ -6,7 +6,6 @@ import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QAction, QFileDialog, QFontDialog, QColorDialog
 from PyQt5.QtGui import QIcon
 
-
 class Example(QMainWindow):
     def __init__(self):
         super().__init__()
@@ -56,7 +55,6 @@ class Example(QMainWindow):
     def color_dialog(self):
         color = QColorDialog.getColor()
         self.textEdit.setStyleSheet('QWidget { background-color: %s}' % color.name())
-
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
