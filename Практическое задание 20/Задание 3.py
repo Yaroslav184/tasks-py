@@ -1,6 +1,3 @@
-# Ильин Ярослав 1993
-# Задание 3
-
 import sys
 from PyQt5 import QtCore, QtWidgets, QtGui
 
