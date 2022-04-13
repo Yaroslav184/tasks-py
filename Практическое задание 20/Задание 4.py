@@ -1,6 +1,6 @@
-# Ильин Ярослав 1993
-# Вариант 7
-# Задание 4
+"""
+The program is a text editor
+"""
 
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QAction, QFileDialog, QFontDialog, QColorDialog
