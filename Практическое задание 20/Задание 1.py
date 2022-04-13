@@ -1,7 +1,3 @@
-# Ильин Ярослав 1993
-# Вариант 2
-# Задание 1
-
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5 import QtWidgets
