@@ -1,6 +1,3 @@
-# Ильин Ярослав 1993
-# Вариант 6
-
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QCalendarWidget, QLabel, QVBoxLayout
 from PyQt5.QtCore import QDate
