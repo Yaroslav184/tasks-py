@@ -1,0 +1,4 @@
+Sudakov 3 34 3000
+Savushkin 1 20 1324
+Savin 5 16 2030
+Zuev 4 10 1500
